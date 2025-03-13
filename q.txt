@@ -1,0 +1,5 @@
+discord
+asyncio
+random
+aiohttp
+requests
